@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 5 JSON Server", "Opgave 5 JSON Server\Opgave 5 JSON Server.csproj", "{ADC6CEFB-5914-425A-A46A-47BBBD02BE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC6CEFB-5914-425A-A46A-47BBBD02BE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC6CEFB-5914-425A-A46A-47BBBD02BE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC6CEFB-5914-425A-A46A-47BBBD02BE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC6CEFB-5914-425A-A46A-47BBBD02BE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CF7C9D-409D-4211-81E0-C8497C093C55}
+	EndGlobalSection
+EndGlobal
